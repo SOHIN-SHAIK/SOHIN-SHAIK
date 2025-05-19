@@ -1,5 +1,9 @@
 # 💫 About Me:
-🏫I'm studying at Malla Reddy Engineering College for Women(MRECW)<br>🌱 I’m currently learning DSA using C++, Backend and Databases<br>🔭 I’m currently working on ReMedIntel: Dimensional Insights for Patient Readmission Prediction<br>💬 Ask me about AI/ML modeling<br>[🔗](https://github.com/SOHIN-SHAIK) All of my projects are available 📝 I regularly read articles on AIML<br>[📄](https://drive.google.com/file/d/11AmHAewsFsUO9Coj9gag2XSp1XZWEhbn/view?usp=drivesdk) Know about my experiences  [📫](mailto:sohindillu@gmail.com) How to reach me
+🏫I'm studying at Malla Reddy Engineering College for Women(MRECW)<br>🌱 I’m currently learning DSA using C++, Backend and Databases<br>🔭 I’m currently working on ReMedIntel: Dimensional Insights for Patient Readmission Prediction<br>💬 Ask me about AI/ML modeling<br> 📝 I regularly read articles on AIML<br>[📄]<p>
+  <a href="https://github.com/SOHIN-SHAIK" style="text-decoration: none;">🔗</a> All of my projects are available &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/11AmHAewsFsUO9Coj9gag2XSp1XZWEhbn/view?usp=drivesdk" style="text-decoration: none;">📄</a> Know about my experiences &nbsp;&nbsp;
+  <a href="mailto:sohindillu@gmail.com" style="text-decoration: none;">📫</a> How to reach me
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-sohin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sohin_shaik) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SHAIK SOHIN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohindillu@gmail.com) 
