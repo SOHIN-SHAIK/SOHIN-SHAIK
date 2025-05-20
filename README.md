@@ -5,7 +5,6 @@
 💬 Ask me about AI/ML modeling<br>
 📝 I regularly read articles on AIML<br>
 [🔗](https://github.com/SOHIN-SHAIK) All of my projects<br>
-[📄](https://drive.google.com/file/d/11AmHAewsFsUO9Coj9gag2XSp1XZWEhbn/view?usp=drivesdk) Know about my experiences<br>
 [📫](mailto:sohindillu@gmail.com) How to reach me
 
 
