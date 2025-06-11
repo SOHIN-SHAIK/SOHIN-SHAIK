@@ -1,6 +1,6 @@
 # 💫*Shaik Sohin*🎓
 🏫 I'm studying at Malla Reddy Engineering College for Women (MRECW)<br>
-🌱 I’m currently learning DSA using C++, Backend and Databases<br>
+🌱 I’m currently learning DSA, Backend and Databases<br>
 🔭 I’m currently working on [🏥](https://github.com/SOHIN-SHAIK/ReMedIntel-Dimensional-Insights-for-Patient-Readmission-Prediction) ReMedIntel: Dimensional Insights for Patient Readmission Prediction<br>
 💬 Ask me about AI/ML modeling<br>
 📝 I regularly read articles on AIML<br>
